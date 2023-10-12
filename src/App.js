@@ -1,4 +1,4 @@
-import Nav from "./components/nav/Nav";
+import Layout from "./components/layout/Layout";
 import "./style.scss";
 
 
@@ -6,7 +6,7 @@ import "./style.scss";
 const App = () => {
   return (
     <div className="App">
-      <Nav></Nav>
+    <Layout />
     </div>
   );
 }

@@ -1,0 +1,28 @@
+@font-face {
+    font-family: algerian;
+    src: url("./fonts/Algerian\ Regular.ttf");
+}
+
+
+body {
+    font-family: algerian !important;
+    
+}
+
+
+
+.custom-nav {
+  color: white !important;
+  font-size: 22px !important;
+margin-left: 1.5rem;
+margin-right: 1.5rem;
+
+
+}
+
+.custom-logo {
+  max-height: 22rem;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
